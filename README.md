@@ -1,6 +1,6 @@
 # 112-2 教育大數據資料探勘
 ***
- #### 授課教師： [蔡芸琤 Tsai, Yun-Cheng 老師](https://github.com/pecu?tab=repositories)、[Summit Suen](https://hackmd.io/@suensummit)
+ #### 授課教師： [蔡芸琤 Tsai, Yun-Cheng 老師](https://github.com/pecu?tab=repositories)、[Summit Suen 老師](https://hackmd.io/@suensummit)
  #### 姓名：張乃云
  #### 系級：科技系 3年級
 ***
