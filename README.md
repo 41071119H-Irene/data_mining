@@ -5,6 +5,7 @@
  #### 系級：科技系 3年級
 ***
 ## 🙌Homework
-#### Try to Run OpenAI API, know the feature and how to give the example to train the reply(Recommender)
-> #### [Lab 1](https://github.com/41071119H-Irene/data_mining/blob/main/Lab%201.ipynb)
+#### Lab 1: Try to Run OpenAI API, know the feature and how to give the example to train the reply(Recommender)
+> #### [Code(by Jupyter Notebook)](https://github.com/41071119H-Irene/data_mining/blob/main/Lab%201.ipynb)
+> #### [Video]()
 
