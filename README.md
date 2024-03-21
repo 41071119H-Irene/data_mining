@@ -7,5 +7,5 @@
 ## 🙌Homework
 #### Lab 1: Try to Run OpenAI API, know the feature and how to give the example to train the reply(Recommender)
 > #### [Code(by Jupyter Notebook)](https://github.com/41071119H-Irene/data_mining/blob/main/Lab%201.ipynb)
-> #### [Video]()
+> #### [Video](https://youtu.be/L-7PqyoI6ck)
 
