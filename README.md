@@ -9,3 +9,5 @@
 > #### [Code(by Jupyter Notebook)](https://github.com/41071119H-Irene/data_mining/blob/main/Lab%201.ipynb)
 > #### [Video](https://youtu.be/L-7PqyoI6ck)
 
+#### Lab 2 - A standard LLM application: embedding with vector store
+> ### [Code (by Google Colab)]()
