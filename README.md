@@ -10,4 +10,4 @@
 > #### [Video](https://youtu.be/L-7PqyoI6ck)
 
 #### Lab 2 - A standard LLM application: embedding with vector store
-> ### [Code (by Google Colab)]()
+> #### [Code (by Google Colab)](https://github.com/41071119H-Irene/data_mining/blob/main/examples/gemini/python/vectordb_with_chroma/vectordb_with_chroma.ipynb)
