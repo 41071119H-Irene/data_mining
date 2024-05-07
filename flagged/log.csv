@@ -1,0 +1,3 @@
+Count,Animal,Countries,Location,Activity,Morning,output,flag,username,timestamp
+4,dog,"[""Pakistan"", ""Japan"", ""USA""]",,"[""swam"", ""slept""]",false,,,,2024-05-07 15:07:27.276456
+4,dog,"[""Pakistan"", ""Japan"", ""USA""]",,"[""swam"", ""slept""]",false,The 4 dogs from Pakistan and Japan and USA went to the None where they swam and slept until the night,,,2024-05-07 15:41:50.181353
